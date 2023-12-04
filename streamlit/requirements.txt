@@ -44,12 +44,12 @@ fiona==1.9.5
 Flask==2.3.3
 Flask-Caching==2.1.0
 Flask-Cors==4.0.0
-flask-restx==1.2.0
+flask-restx==1.1.0
 folium==0.14.0
 fonttools==4.45.1
 fpdf==1.7.2
 future==0.18.3
-GDAL @ file:///C:/Users/medam/duckdb/build/GDAL-3.3.3-cp39-cp39-win_amd64.whl#sha256=6b54e786a2e5e1b9aa249b89cb746ee1846b030f92e35967a72d395ea53dcfde
+GDAL @ file:///C:/Users/medam/Downloads/streamlit/GDAL-3.3.3-cp39-cp39-win_amd64.whl#sha256=6b54e786a2e5e1b9aa249b89cb746ee1846b030f92e35967a72d395ea53dcfde
 gdown==4.7.1
 geemap==0.29.6
 geocoder==1.38.1
