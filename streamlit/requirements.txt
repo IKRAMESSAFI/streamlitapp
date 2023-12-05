@@ -1,5 +1,5 @@
 affine==2.4.0
-altair==5.2.0
+altair
 aniso8601==9.0.1
 annotated-types==0.6.0
 ansi2html==1.8.0
@@ -44,7 +44,7 @@ fiona==1.9.5
 Flask==2.3.3
 Flask-Caching==2.1.0
 Flask-Cors==4.0.0
-flask-restx==1.1.0
+flask-restx
 folium==0.14.0
 fonttools==4.45.1
 fpdf==1.7.2
